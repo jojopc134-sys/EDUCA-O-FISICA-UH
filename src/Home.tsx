@@ -5,6 +5,7 @@ const participants = [
   { name: "JOÃO VITOR SANTOS" },
   { name: "VICTOR ARAÚJO" },
   { name: "MARIA EDUARDA FERREIRA" },
+  { name: "LUÍZA LÓTUS" },
 ];
 
 const importanceItems = [
