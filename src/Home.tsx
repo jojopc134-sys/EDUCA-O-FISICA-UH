@@ -120,11 +120,11 @@ export default function Home() {
             <div className="card">
               <div className="card-body">
                 <p>
-                  O <strong>Santos Open Beach Tennis</strong>, realizado na Praia do Gonzaga, em Santos, reuniu cerca de <strong>700 atletas</strong> durante o feriadão de 1º de maio. Além das comp[...]
+                  O <strong>Santos Open Beach Tennis</strong>, realizado na Praia do Gonzaga, em Santos, reuniu cerca de <strong>700 atletas</strong> durante o feriadão de 1º de maio. Além das competições, houve clínicas especiais para iniciantes.
                 </p>
                 <br />
                 <p>
-                  A iniciativa teve como objetivo aproximar crianças e jovens do beach tennis, estimular hábitos saudáveis e transformar o campeonato em um grande <strong>evento esportivo e cultura[...]
+                  A iniciativa teve como objetivo aproximar crianças e jovens do beach tennis, estimular hábitos saudáveis e transformar o campeonato em um grande <strong>evento esportivo e cultural</strong> para a comunidade.
                 </p>
 
                 <a
@@ -208,7 +208,7 @@ export default function Home() {
                   1
                 </div>
                 <p className="speaker-text">
-                  Atualmente, o Brasil possui cerca de <strong style={{ color: "var(--text)" }}>1,5 milhão de praticantes</strong> de beach tennis, sendo considerado o país com o maior número de jo[...]
+                  Atualmente, o Brasil possui cerca de <strong style={{ color: "var(--text)" }}>1,5 milhão de praticantes</strong> de beach tennis, sendo considerado o país com o maior número de jogadores no mundo.
                 </p>
               </div>
             </ScrollReveal>
@@ -220,7 +220,7 @@ export default function Home() {
                   2
                 </div>
                 <p className="speaker-text">
-                  Além de ser uma atividade de lazer, o beach tennis também se tornou um esporte muito importante para a <strong style={{ color: "var(--text)" }}>saúde, socialização e inclusão s[...]
+                  Além de ser uma atividade de lazer, o beach tennis também se tornou um esporte muito importante para a <strong style={{ color: "var(--text)" }}>saúde, socialização e inclusão social</strong> em diversas comunidades.
                 </p>
               </div>
             </ScrollReveal>
@@ -247,7 +247,7 @@ export default function Home() {
             <div className="card" style={{ marginBottom: 20 }}>
               <div className="card-body">
                 <p>
-                  O beach tennis melhora o condicionamento físico, a coordenação e a saúde mental — tudo isso ao ar livre, o que torna o hábito mais fácil de manter. O esporte aproxima pessoas[...]
+                  O beach tennis melhora o condicionamento físico, a coordenação e a saúde mental — tudo isso ao ar livre, o que torna o hábito mais fácil de manter. O esporte aproxima pessoas de todas as idades e realidades.
                 </p>
               </div>
             </div>
